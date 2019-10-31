@@ -1,4 +1,4 @@
-# <img src="https://cdn.rawgit.com/chocolatey/chocolatey-coreteampackages/edba4a5849ff756e767cba86641bea97ff5721fe/icons/firefox.png" width="48" height="48"/> [FirefoxESR](https://chocolatey.org/packages/FirefoxESR)
+# <img src="https://cdn.jsdelivr.net/gh/luzkenin/chocolatey-coreteampackages@8a7376cf4e5b7cde0eb1c6a608529601bfcd9546/icons/firefox.svg" width="48" height="48"/> [FirefoxESR](https://chocolatey.org/packages/FirefoxESR)
 
 
 Bringing together all kinds of awesomeness to make browsing better for you.

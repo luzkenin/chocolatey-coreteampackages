@@ -9,8 +9,8 @@
     <owners>chocolatey</owners>
     <projectUrl>https://code.visualstudio.com</projectUrl>
     <projectSourceUrl>https://github.com/Microsoft/vscode</projectSourceUrl>
-    <packageSourceUrl>https://github.com/chocolatey-community/chocolatey-coreteampackages/tree/master/automatic/vscode.install</packageSourceUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/chocolatey-community/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png</iconUrl>
+    <packageSourceUrl>https://github.com/luzkenin/chocolatey-coreteampackages/tree/master/automatic/vscode.install</packageSourceUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/luzkenin/chocolatey-coreteampackages@00a000c7e5d8cc0d8416468e164eef281f843bff/icons/vscode.png</iconUrl>
     <licenseUrl>https://code.visualstudio.com/License</licenseUrl>
     <docsUrl>https://code.visualstudio.com/docs</docsUrl>
     <bugTrackerUrl>https://github.com/Microsoft/vscode/issues</bugTrackerUrl>
